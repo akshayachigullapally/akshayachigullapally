@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/akshayachigullapally">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+for+Good+Advocate;Always+building+what+matters." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Turning+AI+into+impact;Always+building+what+matters." alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,11 +11,12 @@
 
 ### 🧠 About Me
 
-- 💡 Building real-world solutions with **React, Node.js, Firebase, Python, and AI**
-- 🌏 Passionate about using tech for **sustainability, healthcare, and education**
-- 🛠 Currently refining skills in **TypeScript, Cloud (GCP/AWS), and DevOps**
-- 🎓 CSE undergrad at **VNRVJIET**, active in IEEE, CSI & Theatro Club
+- 👨‍💻 Passionate developer building scalable applications and impactful tech  
+- 🔭 Currently exploring new frameworks and cloud tech  
+- 🤝 Active contributor in student and tech communities  
+- 🌐 Explore my work: [Portfolio](https://your-portfolio-link)  
 - 📨 Reach me: **akshayachigullapally@gmail.com**
+
 
 ---
 
@@ -23,21 +24,32 @@
 
 | 🚀 Project | 💡 Description | 🔧 Stack |
 |-----------|----------------|----------|
-| **Skill Seek** | Platform connecting skilled workers in developing regions to global opportunities | React, Firebase, Node.js, MongoDB |
-| **MediConnect** | AI-powered health app with diagnostics, video consultations & EHR management | React Native, Flask, TensorFlow, MongoDB |
-| **Eco-Vending Waste Management** | Gamified system to promote recycling through smart vending machines | React, Node.js, QR, MongoDB |
+| **HabitQuest** *(Webathon 3.0 Winner – Apr 2025)* | Gamified habit tracker using AI motivation and gesture-based quizzes. Includes Gemini chatbot, smart reminders, streak tracking, and a social feed. | MERN Stack, Gemini AI, MediaPipe |
+| **AI Career Coach Platform** | AI-powered career planning assistant offering chat-based guidance and personalized job recommendations. | Next.js, Prisma, Tailwind CSS, PostgreSQL |
+| **Real-Time Chat App** | Real-time messaging platform with private/group chats, typing indicators, message history, and online status tracking. | MERN Stack, Socket.IO |
+| **Text-to-AI Image Generator** | AI-powered app that turns user prompts into high-quality images using generative models. Features gallery, download/share options, and prompt history. | MERN Stack, Generative AI |
+| **Perma – Link-in-Bio Platform** |Full-stack link-in-bio app with drag & drop dashboard, secure auth, link tracking, and upcoming features like analytics, QR codes, gamification, and resume builder. | React 19, Vite, Tailwind CSS, Express.js, MongoDB, Clerk |
+| **BookBase Library Management**     | System for managing library operations with login, book tracking, etc.      | React, Node.js, Express, MongoDB             |
 | **Zero Hunger Connect** | Food redistribution platform for surplus food donations & community kitchens | React, Firebase, Express, Google Maps API |
 | **SIM Tracker** | Python-based tool to trace SIM card locations for safety | Python, SQLite, Tkinter |
-| **SkillSeeker Dashboard** | Admin and user dashboard with analytics and mentorship tracking | React, Tailwind, Chart.js, Auth0 |
+| **E-commerce Platform** | Full-fledged online shopping system with user login, product management, and cart functionality. | React, Node.js, Firebase |
+| **User Management System** | Admin-based dashboard to manage, add, or remove users with authentication and session handling. | React, Express, MongoDB |
+| **Portfolio Website**               | Personal portfolio showcasing skills, resume, and project demos.            | HTML, CSS, JavaScript, React     |
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills & Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,python,flask,tailwind,html,css,js,ts,git,github,docker,vscode" />
-</p>
-
+🎨 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,materialui&perline=8&theme=dark" alt="Frontend Skills" /> </p>
+⚙️ Backend & API Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp&perline=7&theme=dark" alt="Backend Skills" /> </p>
+☁️ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify&perline=5&theme=dark" alt="Cloud & DevOps" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql&perline=4&theme=dark" alt="Databases" /> </p>
+🛠️ Tools & Workflow
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5&theme=dark" alt="Tools" /> </p>
 ---
 
 ### 📊 GitHub Stats
@@ -70,3 +82,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📬+Open+to+collaborations;🌍+Building+tech+for+impact;⭐+Star+your+favorite+repos!" />
 </p>
+
