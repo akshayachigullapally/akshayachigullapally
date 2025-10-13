@@ -55,10 +55,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayachigullapally&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshayachigullapally&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayachigullapally&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -80,7 +80,9 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📬+Open+to+collaborations;🌍+Building+tech+for+impact;⭐+Star+your+favorite+repos!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%AC+Open+to+collaborations;%F0%9F%8C%8D+Building+tech+for+impact;%E2%AD%90+Star+your+favorite+repos!" alt="Typing SVG" />
 </p>
+
 
