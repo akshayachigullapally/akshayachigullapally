@@ -14,7 +14,7 @@
 - 👨‍💻 Passionate developer building scalable applications and impactful tech  
 - 🔭 Currently exploring new frameworks and cloud tech  
 - 🤝 Active contributor in student and tech communities  
-- 🌐 Explore my work: [Portfolio](https://your-portfolio-link)  
+- 🌐 Explore my work: [Portfolio](https://akshayachigullapally.vercel.app/)  
 - 📨 Reach me: **akshayachigullapally@gmail.com**
 
 
